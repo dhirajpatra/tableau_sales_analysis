@@ -4,6 +4,8 @@ This is a Tableau public sales analytical dashboard project
 
 ![Dashboard](Dashboard.png?raw=true "Sales Analysis")
 
+https://public.tableau.com/app/profile/dhiraj.patra/viz/US_sales_16767072929200/Genderwisesale
+
 ### How to start
 
 Download the tableau public from https://www.tableau.com/
